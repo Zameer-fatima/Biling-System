@@ -18,6 +18,5 @@ Billing System for a restaurant written in Java. Includes the following function
 #### Login:
 On first time login, a root user 'admin' with no default password will be generated. Access the system using that user name.
 
-#### Reset system:
-In order to reset the system to its initial status without any content (user, menubook, order log etc.), delete ALL files in the RestaurantBillingSystem\res folder.
+
 
